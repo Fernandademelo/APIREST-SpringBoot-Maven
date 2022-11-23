@@ -1,0 +1,22 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="IncorrectHttpHeaderInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="customHeaders">
+        <set>
+          <option value="}" />
+          <option value="  &quot;block&quot;" />
+          <option value="  &quot;apartment&quot;" />
+          <option value="  &quot;responsableName&quot;" />
+          <option value="  &quot;colorCar&quot;" />
+          <option value="  &quot;modelCar&quot;" />
+          <option value="  &quot;brandCar&quot;" />
+          <option value="  &quot;licensePlateCar&quot;" />
+          <option value="  &quot;parkingSpotNumber&quot;" />
+          <option value="{" />
+          <option value="&quot;apartment&quot; = &quot;101&quot;," />
+        </set>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
